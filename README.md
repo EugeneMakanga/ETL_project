@@ -45,9 +45,3 @@ with the database created let`s load our extracted and transformed data into it,
 Here is how the final product looked like.
 
 ![loaded](https://github.com/EugeneMakanga/ETL_project/assets/166953108/614b54de-c9de-4193-9c9f-9d0645d704e4)
-
-
-### References
-resources used during the making of this project
-- Her data project (Youtube channel on data analysis)
-- Darshil Parmar (Youtube channel on data engineering)
